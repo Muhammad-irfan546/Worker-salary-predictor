@@ -35,6 +35,8 @@ File pickers hide dotfiles, so add it directly on GitHub instead:
 3. Click **New app**
 4. Select your repo, branch `main`, main file path `app.py`
 5. Click **Deploy**
+6. demo:
+7. https://worker-salary-predictor-nevdrxuinntahejfvoeqpn.streamlit.app/
 
 ## Note
 
